@@ -1,3 +1,3 @@
 barcode-related
 ===============
-modification to add tab character recognition.
+code128.py Originally written by someone else.  Modified to add tab character recognition.
